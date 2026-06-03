@@ -1,0 +1,39 @@
+{
+  "product": {
+    "name": "Agent2Research",
+    "homepage": "https://agent2research.com/",
+    "description": "A medical research AI tool intelligence and decision guide."
+  },
+  "links": [
+    {
+      "id": "homepage",
+      "name": "Agent2Research",
+      "url": "https://agent2research.com/",
+      "best_for": ["general", "directory", "resource_page"]
+    },
+    {
+      "id": "tools",
+      "name": "Agent2Research Tool Library",
+      "url": "https://agent2research.com/tools",
+      "best_for": ["tool_directory", "ai_tool_index"]
+    },
+    {
+      "id": "topics",
+      "name": "Agent2Research Research Topics",
+      "url": "https://agent2research.com/topics",
+      "best_for": ["research_workflow", "academic_guides"]
+    },
+    {
+      "id": "compare",
+      "name": "Agent2Research Tool Comparisons",
+      "url": "https://agent2research.com/compare",
+      "best_for": ["comparison", "decision_support"]
+    },
+    {
+      "id": "standards",
+      "name": "Agent2Research Evaluation Standards",
+      "url": "https://agent2research.com/standards",
+      "best_for": ["methodology", "evaluation"]
+    }
+  ]
+}
