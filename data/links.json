@@ -2,7 +2,7 @@
   "product": {
     "name": "Agent2Research",
     "homepage": "https://agent2research.com/",
-    "description": "A medical research AI tool intelligence and decision guide."
+    "description": "A medical research AI tool intelligence and decision guide for literature search, Zotero workflows, systematic reviews, academic writing, statistics, bioinformatics, and medical imaging."
   },
   "links": [
     {
@@ -24,6 +24,24 @@
       "best_for": ["research_workflow", "academic_guides"]
     },
     {
+      "id": "methods",
+      "name": "Agent2Research Research Methods",
+      "url": "https://agent2research.com/methods",
+      "best_for": ["workflow_notes", "research_methods", "academic_guides"]
+    },
+    {
+      "id": "skills",
+      "name": "Agent2Research Research Skills",
+      "url": "https://agent2research.com/skills",
+      "best_for": ["ai_skills", "workflow_templates", "research_productivity"]
+    },
+    {
+      "id": "resources",
+      "name": "Agent2Research Research Resources",
+      "url": "https://agent2research.com/resources",
+      "best_for": ["resource_page", "academic_guides", "research_productivity"]
+    },
+    {
       "id": "compare",
       "name": "Agent2Research Tool Comparisons",
       "url": "https://agent2research.com/compare",
@@ -34,6 +52,33 @@
       "name": "Agent2Research Evaluation Standards",
       "url": "https://agent2research.com/standards",
       "best_for": ["methodology", "evaluation"]
+    }
+  ],
+  "images": [
+    {
+      "id": "og",
+      "name": "Agent2Research OpenGraph Image",
+      "url": "https://agent2research.com/opengraph-image?15d742a71f1f38c8"
+    },
+    {
+      "id": "litmaps",
+      "name": "Litmaps citation network screenshot",
+      "url": "https://wilddata-cms-1320403996.cos.ap-shanghai.myqcloud.com/tools/20260531/litmaps_review_citation_network_visualization_20260531_8a4ff92a84.jpg"
+    },
+    {
+      "id": "cellchat",
+      "name": "CellChat single-cell analysis screenshot",
+      "url": "https://wilddata-cms-1320403996.cos.ap-shanghai.myqcloud.com/tools/20260531/cellchat_single_cell_communication_analysis_20260531_201a91697d.jpg"
+    },
+    {
+      "id": "pdfmathtranslate",
+      "name": "PDF translation workflow screenshot",
+      "url": "https://wilddata-cms-1320403996.cos.ap-shanghai.myqcloud.com/tools/20260531/pdfmathtranslate_review_20260531_dc306a39e5.jpg"
+    },
+    {
+      "id": "3d-slicer",
+      "name": "3D Slicer medical imaging screenshot",
+      "url": "https://wilddata-cms-1320403996.cos.ap-shanghai.myqcloud.com/tools/20260531/3d_slicer_review_medical_image_reconstruction_ai_platform_20260531_5bfea49957.jpg"
     }
   ]
 }
